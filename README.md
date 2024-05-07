@@ -52,5 +52,5 @@ while True:
 
 
 ## RESULT
-Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
+Thus, the python program for python program for simulating ping command
 was successfully created and executed.
